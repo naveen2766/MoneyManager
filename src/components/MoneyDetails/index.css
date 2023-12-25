@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.each-details-box {
+  border: 1px solid;
+  height: 15vh;
+  width: 14vw;
+  border-radius: 10px;
+  pad: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  height: 6vh;
+  width: 3vw;
+}
+.income-border-color {
+  border-color: #06b6d4;
+}
+.expense-border-colr {
+  border-color: #7c3aed;
+}
+.income-background-color {
+  background-color: #cffafe;
+}
+.expense-background-color {
+  background-color: #ede9fe;
+}
+.transaction-history {
+  display: flex;
+}
